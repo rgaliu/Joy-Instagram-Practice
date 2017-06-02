@@ -1,0 +1,1 @@
+This application was created in order to server as an Instagram WebUI example to display my coding style and skills
