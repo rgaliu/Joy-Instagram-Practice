@@ -1,0 +1,22 @@
+{
+  "name": "joyinstagrampractice",
+  "version": "1.0.0",
+  "description": "An Instagram-like UI interface",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgaliu/Joy-Instagram-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgaliu/Joy-Instagram-Practice/issues"
+  },
+  "homepage": "https://github.com/rgaliu/Joy-Instagram-Practice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
